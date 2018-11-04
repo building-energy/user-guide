@@ -4,11 +4,11 @@ This is the user guide to the Building Energy Research Group (BERG) GitHub pages
 
 ## Introduction
 
-The `building-energy` GitHub page is the organizational account for the Building Energy Research Group in the School of Architecture, Building and Civil Engineering at Loughborough University in the UK.
+The **building-energy** GitHub page is the organizational account for the Building Energy Research Group in the School of Architecture, Building and Civil Engineering at Loughborough University in the UK.
 
-This organizational account contains a number of GitHub repositories. You are currently in the `user-guide` repository and are viewing it's `README` file. A GitHub repository can store text files, programming scripts, data analysis procedures, software packages and websites - bascially anything which can be expressed in computer file format.
+This organizational account contains a number of GitHub repositories. You are currently in the **user-guide** repository and are viewing it's **README** file. A GitHub repository can store text files, programming scripts, data analysis procedures, software packages and websites - bascially anything which can be expressed in computer file format.
 
-The `building-energy` repositories contains work done as part of the research activities of the BERG group. This includes our research into building simulation, building energy modelling, low energy building design and data analysis of building performance.
+The **building-energy** repositories contain work done as part of the research activities of the BERG group. This includes our research into building simulation, building energy modelling, low energy building design and data analysis of building performance.
 
 The repositories are not designed to be 'finished articles' but rather 'work-in-progress'. 
 
@@ -28,7 +28,7 @@ There are a number of reasons why BERG is using GitHub:
 
 ### Viewing and using the material
 
-Anyone can view the public repositories on the `building-energy` GitHub page. Each repository should have a license file that describes the conditions for using the material in the repository.
+Anyone can view the public repositories on the **building-energy** GitHub page. Each repository should have a license file that describes the conditions for using the material in the repository.
 
 ### Reporting problems and requesting new features.
 
