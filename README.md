@@ -8,7 +8,7 @@ The **building-energy** GitHub page is the organizational account for the Buildi
 
 This organizational account contains a number of GitHub repositories. You are currently in the **user-guide** repository and are viewing it's **README** file. A GitHub repository can store text files, programming scripts, data analysis procedures, software packages and websites - bascially anything which can be expressed in computer file format.
 
-The **building-energy** repositories contain work done as part of the research activities of the BERG group. This includes our research into building simulation, building energy modelling, low energy building design and data analysis of building performance.
+The BERG repositories contain work done as part of the research activities of the BERG group. This includes our research into building simulation, building energy modelling, low energy building design and data analysis of building performance.
 
 The repositories are not designed to be 'finished articles' but rather 'work-in-progress'. 
 
