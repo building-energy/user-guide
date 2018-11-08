@@ -38,19 +38,19 @@ Depending on the structure of the repository, it may be possible to raise an 'Is
 
 Repositories may encourage contributions to the content, for examply by 'forking' the repository and then issuing a 'pull request' once new material has been added.
 
-## For BERG researchers
+## For organization member
 
 ### Private repositories
 
-BERG researchers can create, view and contribute to 'private repositories' that are not publically available and can only be seen by invite. This allows development to occur which is not visible to external users. Of course, working with public repositories is always possible.
+Organization members can create, view and contribute to 'private repositories'. Private repositories are not publically available but can be seen by other organization members. This allows development to occur which is not visible to external users. Of course, working with public repositories is always possible.
 
 ### Creating a new repository
 
-Feel free to create a new repository. This could be for an existing set of materials, or it could be for a brand new idea. A repository could also be set up simply as an initial idea to see if anyone else is also interested in the concept. 
+Feel free to create a new public or private repository. This could be for an existing set of materials, or it could be for a brand new idea. A repository could also be set up simply as an initial idea to see if anyone else is also interested in the concept. 
 
 ### Teams
 
-It is possible to create teams within GitHub. A team can then be granted access to a particular repository to work together on it. Other users will not be able to see this repository.
+It is possible to create teams within GitHub. A team can then be granted access to a particular repository to work together on it. Team access includes the ability to fork (i.e. to copy) and to push (i.e. to write) to a respository.
 
 
 
