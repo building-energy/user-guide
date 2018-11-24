@@ -38,7 +38,7 @@ Depending on the structure of the repository, it may be possible to raise an 'Is
 
 Repositories may encourage contributions to the content, for examply by 'forking' the repository and then issuing a 'pull request' once new material has been added.
 
-## For organization member
+## For organization members
 
 ### Private repositories
 
